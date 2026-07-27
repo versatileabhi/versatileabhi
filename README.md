@@ -1,5 +1,5 @@
 #  About Me:
- I write code with the help of AI, using it as a productivity tool while focusing on problem-solving, architecture, and delivering quality software.<br>
+ I write code with the help of AI, using it as a productivity tool while focusing on problem-solving, architecture, and delivering quality software...<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/versatile_abhi_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhiraj Ashok Ukirde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/versatile_abhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/versatile_abhi_18) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhiraj Ashok Ukirde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhirajukirde@gmail.com) 
