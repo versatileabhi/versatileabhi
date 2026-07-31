@@ -1,5 +1,5 @@
 <p align="center">
-<img src="storage/emulated/O/Download/
+<img src="/storage/emulated/O/Download/
 asci.svg/" alt="Abhiraj" width="500">
 </p>
 #  About Me:
