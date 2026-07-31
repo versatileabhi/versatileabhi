@@ -1,6 +1,6 @@
 <p align="center">
-<img src="./storage/emulated/O/Download/
-asci.svg/asci.svg" alt="Abhiraj" width="500">
+<img src="storage/emulated/O/Download/
+asci.svg/" alt="Abhiraj" width="500">
 </p>
 #  About Me:
  I write code with the help of AI, using it as a productivity tool while focusing on problem-solving, architecture, and delivering quality software...<br>
